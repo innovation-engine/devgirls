@@ -2,6 +2,10 @@ a{
     color:black;
 }
 
+h2{
+    margin-top: 25px;
+}
+
 .btn-color{
     background-color: #6200EE;
     color:white;

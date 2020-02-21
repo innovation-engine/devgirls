@@ -1,9 +1,10 @@
-# devgirls
+# DEVGIRLS Landing Page
 
-https://www.creative-tim.com/presentation
+Dev girls is a program from [innovation engine](http://www.innovation-engine.org/) that teaches young girls from all backgrounds how to code. 
 
-https://expo.getbootstrap.com/
+## Getting Started
 
-https://expo.getbootstrap.com/
+Only requirements that are needed is an internet browser.
 
-gooogle free illustrations
+## Techonolgies
+html,css, bootstrap
